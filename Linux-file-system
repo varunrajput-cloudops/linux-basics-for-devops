@@ -1,0 +1,20 @@
+# 🐧 Linux Commands Notes (English + Hinglish)
+
+## 📁 Linux File System
+
+Linux me sab kuch root directory se start hota hai:
+
+/
+Ye `/` root folder hota hai.
+
+Common folders:
+
+| Folder | Meaning (English) | Hinglish |
+|--------|--------------------|----------|
+| /home  | User home folders  | Users ke personal folders |
+| /bin   | Important commands | System commands yaha hote hain |
+| /etc   | Config files       | System settings files |
+| /var   | Logs & cache       | Dynamic data, logs |
+
+---
+
